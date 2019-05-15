@@ -8,6 +8,8 @@ revealOptions:
 ---
 # Local
 
+Hello World!
+
 This will serve the presentation
 
 and open a browser to view it

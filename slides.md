@@ -13,12 +13,6 @@ revealOptions:
 
 # Local
 
-Hello World!
-
-This will serve the presentation
-
-and open a browser to view it
-
 * clone the repo
 * edit the `slides.md` file
 * then:
@@ -31,7 +25,7 @@ Note: This is a speaker note, you need node 6.x installed
 
 <!--s-->
 
-# GitHub Pages
+## GitHub Pages
 
 * fork the repo
 * setup a build in travis for the fork - don't forget the env var with your personal access token

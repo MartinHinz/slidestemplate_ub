@@ -2,10 +2,15 @@
 title: Slides Template
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: solarized
+theme: white
 revealOptions:
-    transition: 'slide'
+    transition: 'convex'
 ---
+
+<link rel="stylesheet" href="css/style.css" id="theme">
+<link rel="stylesheet" href="css/customize.css" id="theme">
+<link rel="stylesheet" href="css/default-fonts.css" id="theme">
+
 # Local
 
 Hello World!
